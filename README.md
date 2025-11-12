@@ -1,7 +1,6 @@
 
-Hi, I'm a PhD candidate in political science at the University of Oxford. I mostly do things in public opinion and behavioural science, but 
-also political methodology (especially causal inference and experiments), and quantitative social science generally.
+Hi, I'm Albert Ward (@albert-ward). I'm a researcher in quantitative social and behavioural science - I'm also interested in public policy, public opinion and applied methods (especially survey science, experimental methods and causal inference). I have a PhD from Oxford
 
-If you're a QStep student, you can access course materials <a href="https://github.com/albert-ward/qstep1-course">here.</a>
+You can get in touch with me at albertjamesward@gmail.com
 
-You can get in touch with me at albert.ward@politics.ox.ac.uk or albertjamesward@gmail.com
+For QStep students wanting to access materials: you can get them <a href="https://github.com/albert-ward/qstep1-course">here.</a>
